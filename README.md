@@ -1,41 +1,37 @@
-<!-- Encabezado animado con tu nombre -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Hola%2C+soy+Santiago+Ordo%C3%B1ez;Desarrollador+Full+Stack+%F0%9F%94%A7;Amante+de+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n+%F0%9F%94%BB;Creador+de+proyectos+web%2C+m%C3%B3viles+y+Arduino+%F0%9F%A4%96" alt="Typing SVG">
-</p>
-
-<!-- Banner gráfico con tu nombre -->
+<!-- Encabezado moderno con sombra degradada -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0077FF&height=150&section=header&text=Santiago%20Ordoñez&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner Santiago Ordoñez">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=200&section=header&text=Santiago%20Ordoñez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Ingeniero%20de%20Software&descSize=20&descAlignY=60" alt="banner" />
 </h1>
 
----
-
-## 🧠 Descripción del Proyecto
-
-**Mi Proyecto Increíble** es una solución tecnológica diseñada para resolver **[descripción del problema o necesidad]**.
-
-Esta aplicación permite a los usuarios **[explica la función principal]**, brindando una experiencia accesible, eficiente y atractiva visualmente.
-
-> 🚧 Proyecto en constante evolución. Siempre aprendiendo y construyendo.
+<!-- Encabezado animado (funcional y simplificado) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Santiago+Ordoñez;Ingeniero+de+Software;Apasionado+por+la+innovación+y+el+desarrollo" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🧠 Sobre mí
 
-<table align="center">
-  <tr>
-    <th>Frontend</th>
-    <th>Herramientas</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python&theme=light" height="40"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=arduino,vscode,github,git&theme=light" height="40"/>
-    </td>
-  </tr>
-</table>
+🎯 Soy un **Ingeniero en Desarrollo de Software** apasionado por construir soluciones modernas, intuitivas y funcionales.  
+Mi filosofía: **Construir, aprender y mejorar continuamente.**
+
+💡 **Mi Proyecto Increíble** nació para resolver el caos en equipos remotos:  
+Una app que permite **gestionar tareas, colaborar en tiempo real** y optimizar flujos de trabajo con eficiencia y diseño.
+
+🛠️ Stack principal: `React` · `Django` · `SQL/NoSQL`  
+🧱 Arquitectura limpia · Buenas prácticas · Diseño centrado en el usuario
+
+---
+
+## 🚀 Tecnologías & Herramientas
+
+<div align="center">
+
+| 🧩 Frontend & Backend | ⚙️ Herramientas |
+|----------------------|----------------|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python&theme=light" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,arduino,git,github&theme=light" height="40"/> |
+
+</div>
 
 ---
 
@@ -47,36 +43,33 @@ Esta aplicación permite a los usuarios **[explica la función principal]**, bri
 
 ---
 
-## 📬 Contacto
+## 🌐 Conecta conmigo
 
-<p align="center">
-  <a href="mailto:tuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/TuID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>¡Estoy disponible para colaborar en proyectos, ideas o simplemente charlar sobre tecnología! 🚀</i></p>
+<a href="mailto:santi.ordonez.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/santi.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/TU_ID_DISCORD" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://wa.me/573001234567" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://facebook.com/TU_USUARIO_FACEBOOK" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+<p align="center"><i>📬 ¡Estoy abierto a colaboraciones, ideas o simplemente a hablar sobre tecnología!</i></p>
 
 ---
 
-## 📸 Captura de Pantalla
-
-<p align="center">
-  <img src="assets/screenshot.png" width="80%" alt="Captura de pantalla del proyecto" />
-</p>
