@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mi Proyecto Increíble</h1>
+<h1 align="center">🚀 soy santiago ordoñez </h1>
 
 <p align="center">
   💻 Aplicación Moderna &nbsp; | &nbsp; 🌐 Web &nbsp; | &nbsp; 🎮 Juego &nbsp; | &nbsp; 📱 Móvil
@@ -22,58 +22,49 @@
 
 ## 🧠 Descripción del Proyecto
 
-Este proyecto es una solución para **[problema o necesidad]**, que permite a los usuarios **[acción principal o funcionalidad]**.  
-Desarrollado con ❤️ por pasión, curiosidad y aprendizaje continuo.
+**Mi Proyecto Increíble** es una solución diseñada para resolver **[describe el problema]**.  
+Permite a los usuarios **[acción principal o funcionalidad]**, todo dentro de una experiencia moderna, accesible y eficiente.
+
+> Este proyecto fue creado con pasión por el desarrollo, aprendizaje continuo y entusiasmo por la tecnología.
 
 ---
 
 ## ⚙️ Tecnologías Utilizadas
 
 <p align="center">
-  <table align="center">
-    <tr align="center">
-      <td><img src="./icons/HTML.svg" width="48"><br><strong>HTML</strong></td>
-      <td><img src="./icons/CSS.svg" width="48"><br><strong>CSS</strong></td>
-      <td><img src="./icons/JavaScript.svg" width="48"><br><strong>JavaScript</strong></td>
-      <td><img src="./icons/Github-Dark.svg" width="48"><br><strong>GitHub</strong></td>
-    </tr>
-    <tr align="center">
-      <td><img src="./icons/Arduino.svg" width="48"><br><strong>Arduino</strong></td>
-      <td><img src="./icons/Django.svg" width="48"><br><strong>Django</strong></td>
-      <td><img src="./icons/React-Dark.svg" width="48"><br><strong>React</strong></td>
-      <td><img src="./icons/Python-Dark.svg" width="48"><br><strong>Python</strong></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,arduino,django,react,python&perline=5" alt="Tech stack" />
 </p>
 
-| Tecnología | Función |
-|------------|---------|
-| 🐍 **Python** | Lógica y backend |
-| 🌐 **HTML/CSS** | Estructura y estilos web |
-| 🎨 **JavaScript** | Interactividad en frontend |
-| ⚙️ **Django / React** | Framework de desarrollo |
-| 🤖 **Arduino** | Automatización y hardware |
-| 🗃️ **SQLite / PostgreSQL** | Base de datos |
-| 🛠️ **GitHub** | Control de versiones y colaboración |
+<div align="center">
+
+</div>
 
 ---
 
-## 🚀 Instalación Rápida
+## 🧰 Entornos de Desarrollo
 
-```bash
-# 1️⃣ Clona este repositorio
-git clone https://github.com/usuario/repositorio.git
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,arduino&theme=light" alt="Dev Environments" />
+</p>
 
-# 2️⃣ Entra en el directorio
-cd repositorio
+<div align="center">
 
-# 3️⃣ (Opcional) Crea un entorno virtual
-python -m venv venv
-source venv/bin/activate   # En Windows: venv\Scripts\activate
+## 📬 Contacto
 
-# 4️⃣ Instala las dependencias
-pip install -r requirements.txt
+<p align="center">
+  <a href="https://facebook.com/usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/573001234567" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
-# 5️⃣ Ejecuta el proyecto
-python main.py
-
+<p align="center">
+</p>
