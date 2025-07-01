@@ -24,15 +24,15 @@ Esta aplicación permite a los usuarios **[explica la función principal]**, bri
 
 <table align="center">
   <tr>
-    <th>fronted</th>
+    <th>Frontend</th>
     <th>Herramientas</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,node,&theme=light" height="40"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python&theme=light" height="40"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,django,arduino,vscode,github&theme=light" height="40"/>
+      <img src="https://skillicons.dev/icons?i=arduino,vscode,github,git&theme=light" height="40"/>
     </td>
   </tr>
 </table>
@@ -42,31 +42,36 @@ Esta aplicación permite a los usuarios **[explica la función principal]**, bri
 ## 💻 Sistemas Operativos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=light" height="40" />
 </p>
 
 ---
 
 ## 📬 Contacto
 
-<table align="center">
-  <tr>
-    <th>Redes y Correo</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="mailto:tuemail@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
-      </a>
-      <a href="https://instagram.com/tuusuario" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
-      </a>
-      <a href="https://discord.com/users/TuID" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:tuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/TuID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+<p align="center"><i>¡Estoy disponible para colaborar en proyectos, ideas o simplemente charlar sobre tecnología! 🚀</i></p>
 
 ---
 
