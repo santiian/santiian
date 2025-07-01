@@ -1,11 +1,10 @@
-<!-- Encabezado moderno con sombra degradada -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=200&section=header&text=Santiago%20Ordoñez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Ingeniero%20de%20Software&descSize=20&descAlignY=60" alt="banner" />
-</h1>
+<!-- Título limpio y moderno -->
+<h1 align="center">🚀 Santiago Ordoñez</h1>
+<h3 align="center">👨‍💻 Ingeniero de Software · Apasionado por la tecnología</h3>
 
-<!-- Encabezado animado (funcional y simplificado) -->
+<!-- Encabezado animado funcional -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Santiago+Ordoñez;Ingeniero+de+Software;Apasionado+por+la+innovación+y+el+desarrollo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Enamorado+de+React+y+Django;Siempre+aprendiendo+y+mejorando" alt="Typing SVG" />
 </p>
 
 ---
@@ -72,4 +71,3 @@ Una app que permite **gestionar tareas, colaborar en tiempo real** y optimizar f
 <p align="center"><i>📬 ¡Estoy abierto a colaboraciones, ideas o simplemente a hablar sobre tecnología!</i></p>
 
 ---
-
