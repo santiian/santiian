@@ -1,70 +1,77 @@
-<h1 align="center">🚀 soy santiago ordoñez </h1>
-
+<!-- Encabezado animado con tu nombre -->
 <p align="center">
-  💻 Aplicación Moderna &nbsp; | &nbsp; 🌐 Web &nbsp; | &nbsp; 🎮 Juego &nbsp; | &nbsp; 📱 Móvil
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Hola%2C+soy+Santiago+Ordo%C3%B1ez;Desarrollador+Full+Stack+%F0%9F%94%A7;Amante+de+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n+%F0%9F%94%BB;Creador+de+proyectos+web%2C+m%C3%B3viles+y+Arduino+%F0%9F%A4%96" alt="Typing SVG">
 </p>
 
+<!-- Banner gráfico con tu nombre -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0077FF&height=150&section=header&text=Santiago%20Ordoñez&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner Santiago Ordoñez">
+</h1>
+
+---
+
+## 🧠 Descripción del Proyecto
+
+**Mi Proyecto Increíble** es una solución tecnológica diseñada para resolver **[descripción del problema o necesidad]**.
+
+Esta aplicación permite a los usuarios **[explica la función principal]**, brindando una experiencia accesible, eficiente y atractiva visualmente.
+
+> 🚧 Proyecto en constante evolución. Siempre aprendiendo y construyendo.
+
+---
+
+## 🚀 Habilidades Técnicas
+
+<table align="center">
+  <tr>
+    <th>fronted</th>
+    <th>Herramientas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,node,&theme=light" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,django,arduino,vscode,github&theme=light" height="40"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Sistemas Operativos
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="Estado"></a>
-  <a href="https://github.com/usuario/repositorio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/usuario/repositorio?style=for-the-badge" alt="Licencia"></a>
-  <a href="#"><img src="https://img.shields.io/github/languages/top/usuario/repositorio?style=for-the-badge" alt="Lenguaje Principal"></a>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=light" height="40" />
 </p>
+
+---
+
+## 📬 Contacto
+
+<table align="center">
+  <tr>
+    <th>Redes y Correo</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:tuemail@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
+      </a>
+      <a href="https://instagram.com/tuusuario" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
+      </a>
+      <a href="https://discord.com/users/TuID" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📸 Captura de Pantalla
 
 <p align="center">
-  <img src="assets/screenshot.png" width="700" alt="Captura de pantalla del proyecto">
-</p>
-
----
-
-## 🧠 Descripción del Proyecto
-
-**Mi Proyecto Increíble** es una solución diseñada para resolver **[describe el problema]**.  
-Permite a los usuarios **[acción principal o funcionalidad]**, todo dentro de una experiencia moderna, accesible y eficiente.
-
-> Este proyecto fue creado con pasión por el desarrollo, aprendizaje continuo y entusiasmo por la tecnología.
-
----
-
-## ⚙️ Tecnologías Utilizadas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,arduino,django,react,python&perline=5" alt="Tech stack" />
-</p>
-
-<div align="center">
-
-</div>
-
----
-
-## 🧰 Entornos de Desarrollo
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,arduino&theme=light" alt="Dev Environments" />
-</p>
-
-<div align="center">
-
-## 📬 Contacto
-
-<p align="center">
-  <a href="https://facebook.com/usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://twitter.com/usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://wa.me/573001234567" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
-
-<p align="center">
+  <img src="assets/screenshot.png" width="80%" alt="Captura de pantalla del proyecto" />
 </p>
