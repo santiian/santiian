@@ -18,9 +18,8 @@
 
 </div>
 
-## 👤 Quién Soy
+## 👤*Quién Soy*
 > *👋 ¡Hola! Soy Santiago Ordoñez*
-
 > 🎓 *Ingeniero de Software* | 🧩 *Full Stack Developer*  
 > 🚀 *Apasionado por la tecnología, la innovación y el aprendizaje constante*
 
