@@ -1,15 +1,24 @@
-<!-- Encabezado animado -->
-<h1 align="center">✨ Santiago Ordoñez ✨</h1>
-<h3 align="center">👨‍💻 Full Stack Developer | Ingeniero de Software | Apasionado por la Innovación</h3>
+<!-- Encabezado estilizado y moderno -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%94%A5;Fan+de+React+y+Django+%F0%9F%93%96;Siempre+aprendiendo+y+construyendo+%F0%9F%92%AA" alt="Typing SVG" />
+<h1 style="font-size: 3em;">✨ Santiago Ordoñez ✨</h1>
+
+<h3>👨‍💻 Full Stack Developer | Ingeniero de Software | Apasionado por la Tecnología</h3>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Desarrollador+Web+Full+Stack+%F0%9F%94%A5;React+%2B+Django+Lover+%F0%9F%92%BB;Aprendiendo%2C+creando+y+compartiendo+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
----
+</div>
 
-## 🧠 *Sobre mí*
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iansantiagoordonez31@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saaanti_nvr)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+573007272250)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/santiago_rosero)
 
+</div>
+
+## 👤 Quién Soy
 > *👋 ¡Hola! Soy Santiago Ordoñez*
 
 > 🎓 *Ingeniero de Software* | 🧩 *Full Stack Developer*  
@@ -75,21 +84,8 @@ Disfruto enfrentar retos técnicos, trabajar en equipo y mejorar cada día como 
 </p>
 
 ---
-
-## 🌐 *Conecta conmigo*
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iansantiagoordonez31@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saaanti_nvr)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+573007272250)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/santiago_rosero)
-
-</div>
-
----
-
 <p align="center">
   <i>🤝 ¡Abierto a colaboraciones, proyectos emocionantes o simplemente hablar de tecnología! 🚀</i><br><br>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="100" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Collaboration" height="140" />
 </p>
+
