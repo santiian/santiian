@@ -16,20 +16,18 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+573007272250)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/santiago_rosero)
 
-</div>
+---
 
-## 👤*Quién Soy*
-> *👋 ¡Hola! Soy Santiago Ordoñez*
+## 👤 *Quién Soy*
+> *👋 ¡Hola! Soy Santiago Ordoñez*  
 > 🎓 *Ingeniero de Software* | 🧩 *Full Stack Developer*  
 > 🚀 *Apasionado por la tecnología, la innovación y el aprendizaje constante*
 
 ### 💡 *¿Qué me motiva?*
-
 > *Me encanta transformar ideas complejas en soluciones reales, modernas y escalables.  
 Disfruto enfrentar retos técnicos, trabajar en equipo y mejorar cada día como desarrollador.*
 
 ### 🧩 *Especialidades*
-
 > *- Desarrollo Full Stack con enfoque en rendimiento y experiencia de usuario*  
 > *- Construcción de APIs robustas y arquitecturas limpias*  
 > *- Colaboración ágil y resolución de problemas en equipos multidisciplinarios*
@@ -37,7 +35,6 @@ Disfruto enfrentar retos técnicos, trabajar en equipo y mejorar cada día como 
 ---
 
 ### 💬 *Filosofía de vida*
-
 > *"Construir, aprender y evolucionar constantemente."*
 
 ---
@@ -45,7 +42,6 @@ Disfruto enfrentar retos técnicos, trabajar en equipo y mejorar cada día como 
 ## 🛠️ *Tecnologías y Herramientas que Utilizo*
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -58,19 +54,21 @@ Disfruto enfrentar retos técnicos, trabajar en equipo y mejorar cada día como 
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
 ## 💻 *Sistemas Operativos*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows&theme=light" height="40" alt="Windows" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" height="40" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" height="40" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macOS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="Kali Linux" />
+<div align="center">
+
+<!-- Íconos -->
+<p>
+  <img src="https://skillicons.dev/icons?i=windows&theme=light" alt="Windows" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=light" alt="Ubuntu" height="40" />
+  <img src="https://skillicons.dev/icons?i=kali&theme=light" alt="Kali Linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=apple&theme=light" alt="macOS" height="40" />
 </p>
 
 ---
@@ -83,8 +81,8 @@ Disfruto enfrentar retos técnicos, trabajar en equipo y mejorar cada día como 
 </p>
 
 ---
+
 <p align="center">
   <i>🤝 ¡Abierto a colaboraciones, proyectos emocionantes o simplemente hablar de tecnología! 🚀</i><br><br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Collaboration" height="140" />
 </p>
-
